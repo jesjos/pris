@@ -1,2363 +1,2381 @@
 {
-  "countries": {
-    "Afghanistan": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Afghanistan"
-    },
-    "Albanien": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone2",
-        "within": "zone2",
-        "receive": "zone2"
-      },
-      "name": "Albanien"
-    },
-    "Algeriet": {
-      "zones": {
-        "to": "IntVärlden1",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Algeriet"
-    },
-    "Amerikanska Jungfruöarna": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Amerikanska Jungfruöarna"
-    },
-    "Andorra": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone2",
-        "within": "zone2",
-        "receive": "zone2"
-      },
-      "name": "Andorra"
-    },
-    "Angola": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Angola"
-    },
-    "Anguilla": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Anguilla"
-    },
-    "Antigua och Barbuda": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Antigua och Barbuda"
-    },
-    "Argentina": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Argentina"
-    },
-    "Armenien": {
-      "zones": {
-        "to": "IntVärlden1",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Armenien"
-    },
-    "Aruba": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Aruba"
-    },
-    "Australien": {
-      "zones": {
-        "to": "IntVärlden2",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "Australien"
-    },
-    "Azerbajdzjan": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Azerbajdzjan"
-    },
-    "Bahamas": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Bahamas"
-    },
-    "Bahrain": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Bahrain"
-    },
-    "Bangladesh": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Bangladesh"
-    },
-    "Barbados": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Barbados"
-    },
-    "Belgien": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Belgien"
-    },
-    "Belize": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Belize"
-    },
-    "Benin": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Benin"
-    },
-    "Bermuda": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Bermuda"
-    },
-    "Bhutan": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Bhutan"
-    },
-    "Bolivia": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Bolivia"
-    },
-    "Bosnien och Hercegovina": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone6",
-        "within": "zone6",
-        "receive": "zone6"
-      },
-      "name": "Bosnien och Hercegovina"
-    },
-    "Botswana": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Botswana"
-    },
-    "Brasilien": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Brasilien"
-    },
-    "Brittiska Jungfruöarna": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Brittiska Jungfruöarna"
-    },
-    "Bulgarien": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Bulgarien"
-    },
-    "Burkina Faso": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Burkina Faso"
-    },
-    "Burundi": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Burundi"
-    },
-    "Caymanöarna": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Caymanöarna"
-    },
-    "Centralafrikanska republiken": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Centralafrikanska republiken"
-    },
-    "Chile": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Chile"
-    },
-    "Colombia": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Colombia"
-    },
-    "Costa Rica": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Costa Rica"
-    },
-    "Curacao och Bonaire": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Curacao och Bonaire"
-    },
-    "Cypern (norra)": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone2",
-        "within": "zone2",
-        "receive": "zone2"
-      },
-      "name": "Cypern (norra)"
-    },
-    "Cypern (södra)": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Cypern (södra)"
-    },
-    "Danmark": {
-      "zones": {
-        "to": "Norden",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Danmark"
-    },
-    "Desirade": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone7",
-        "within": "zone7",
-        "receive": "zone7"
-      },
-      "name": "Desirade"
-    },
-    "Djibouti": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Djibouti"
-    },
-    "Dominica": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Dominica"
-    },
-    "Dominikanska republiken": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Dominikanska republiken"
-    },
-    "Ecuador": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Ecuador"
-    },
-    "Egypten": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "Egypten"
-    },
-    "Ekvatorialguinea": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Ekvatorialguinea"
-    },
-    "El Salvador": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "El Salvador"
-    },
-    "Elfenbenskusten": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Elfenbenskusten"
-    },
-    "Estland": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Estland"
-    },
-    "Etiopien": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Etiopien"
-    },
-    "Fiji": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Fiji"
-    },
-    "Filippinerna": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Filippinerna"
-    },
-    "Finland": {
-      "zones": {
-        "to": "Norden",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Finland"
-    },
-    "Frankrike": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Frankrike"
-    },
-    "Franska Guyana": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Franska Guyana"
-    },
-    "Färöarna": {
-      "zones": {
-        "to": "Norden",
-        "from": "zone2",
-        "within": "zone2",
-        "receive": "zone2"
-      },
-      "name": "Färöarna"
-    },
-    "Förenade Arabemiraten": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "Förenade Arabemiraten"
-    },
-    "Gabon": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Gabon"
-    },
-    "Gambia": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Gambia"
-    },
-    "Georgien": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Georgien"
-    },
-    "Ghana": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Ghana"
-    },
-    "Gibraltar": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone8",
-        "within": "zone8",
-        "receive": "zone8"
-      },
-      "name": "Gibraltar"
-    },
-    "Grekland": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Grekland"
-    },
-    "Grenada": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Grenada"
-    },
-    "Grönland": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone8",
-        "within": "zone8",
-        "receive": "zone8"
-      },
-      "name": "Grönland"
-    },
-    "Guadeloupe": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Guadeloupe"
-    },
-    "Guam": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Guam"
-    },
-    "Guatemala": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Guatemala"
-    },
-    "Guernsey": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Guernsey"
-    },
-    "Guinea": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Guinea"
-    },
-    "Guinea Bissau": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Guinea Bissau"
-    },
-    "Guyana": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Guyana"
-    },
-    "Göteborg": {
-      "zones": {
-        "to": "billigt",
-        "from": "billigt",
-        "within": "billigt",
-        "receive": "billigt"
-      },
-      "name": "Göteborg"
-    },
-    "Haiti": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Haiti"
-    },
-    "Honduras": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Honduras"
-    },
-    "Hongkong": {
-      "zones": {
-        "to": "IntVärlden2",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "Hongkong"
-    },
-    "Indien": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Indien"
-    },
-    "Indonesien": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Indonesien"
-    },
-    "Irak": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Irak"
-    },
-    "Iran": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Iran"
-    },
-    "Irland": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Irland"
-    },
-    "Island": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Island"
-    },
-    "Isle of Man": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Isle of Man"
-    },
-    "Israel": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone9",
-        "within": "zone9",
-        "receive": "zone9"
-      },
-      "name": "Israel"
-    },
-    "Italien": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Italien"
-    },
-    "Jamaica": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "Jamaica"
-    },
-    "Japan": {
-      "zones": {
-        "to": "IntVärlden2",
-        "from": "zone9",
-        "within": "zone9",
-        "receive": "zone9"
-      },
-      "name": "Japan"
-    },
-    "Jemen": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Jemen"
-    },
-    "Jersey": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Jersey"
-    },
-    "Jordanien": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Jordanien"
-    },
-    "Kambodja": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Kambodja"
-    },
-    "Kamerun": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Kamerun"
-    },
-    "Kanada": {
-      "zones": {
-        "to": "IntUsa&Kanada",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "Kanada"
-    },
-    "Kap Verde": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Kap Verde"
-    },
-    "Kazakstan": {
-      "zones": {
-        "to": "IntVärlden1",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Kazakstan"
-    },
-    "Kenya": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Kenya"
-    },
-    "Kina": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "Kina"
-    },
-    "Kirgizistan": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Kirgizistan"
-    },
-    "Kongo-Brazzaville": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Kongo-Brazzaville"
-    },
-    "Kongo-Kinshasa": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Kongo-Kinshasa"
-    },
-    "Kosovo": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone10",
-        "within": "zone10",
-        "receive": "zone10"
-      },
-      "name": "Kosovo"
-    },
-    "Kroatien": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone2",
-        "within": "zone2",
-        "receive": "zone2"
-      },
-      "name": "Kroatien"
-    },
-    "Kuba": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Kuba"
-    },
-    "Kuwait": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Kuwait"
-    },
-    "Laos": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Laos"
-    },
-    "Les Saintes": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone7",
-        "within": "zone7",
-        "receive": "zone7"
-      },
-      "name": "Les Saintes"
-    },
-    "Lettland": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Lettland"
-    },
-    "Libanon": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Libanon"
-    },
-    "Liberia": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Liberia"
-    },
-    "Libyen": {
-      "zones": {
-        "to": "IntVärlden1",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Libyen"
-    },
-    "Liechtenstein": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Liechtenstein"
-    },
-    "Litauen": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Litauen"
-    },
-    "Luxemburg": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Luxemburg"
-    },
-    "Macao": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "Macao"
-    },
-    "Madagaskar": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Madagaskar"
-    },
-    "Makedonien": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone6",
-        "within": "zone6",
-        "receive": "zone6"
-      },
-      "name": "Makedonien"
-    },
-    "Malawi": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Malawi"
-    },
-    "Malaysia": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "Malaysia"
-    },
-    "Maldiverna": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Maldiverna"
-    },
-    "Mali": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Mali"
-    },
-    "Malta": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Malta"
-    },
-    "Marie-Galante": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone7",
-        "within": "zone7",
-        "receive": "zone7"
-      },
-      "name": "Marie-Galante"
-    },
-    "Marocko": {
-      "zones": {
-        "to": "IntVärlden1",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Marocko"
-    },
-    "Martinique": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Martinique"
-    },
-    "Mauritius": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Mauritius"
-    },
-    "Mexico": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Mexico"
-    },
-    "Mocambique": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Mocambique"
-    },
-    "Moldavien": {
-      "zones": {
-        "to": "IntVärlden1",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Moldavien"
-    },
-    "Monaco": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Monaco"
-    },
-    "Mongoliet": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Mongoliet"
-    },
-    "Montenegro": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone6",
-        "within": "zone6",
-        "receive": "zone6"
-      },
-      "name": "Montenegro"
-    },
-    "Montserrat": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Montserrat"
-    },
-    "Namibia": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Namibia"
-    },
-    "Nederländerna": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Nederländerna"
-    },
-    "Nepal": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Nepal"
-    },
-    "Nicaragua": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Nicaragua"
-    },
-    "Niger": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Niger"
-    },
-    "Nigeria": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Nigeria"
-    },
-    "Norge": {
-      "zones": {
-        "to": "Norden",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Norge"
-    },
-    "Nya Zeeland": {
-      "zones": {
-        "to": "IntVärlden2",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "Nya Zeeland"
-    },
-    "Oman": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Oman"
-    },
-    "Pakistan": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Pakistan"
-    },
-    "Palestina": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Palestina"
-    },
-    "Panama": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Panama"
-    },
-    "Papua Nya Guinea": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Papua Nya Guinea"
-    },
-    "Paraguay": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Paraguay"
-    },
-    "Peru": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Peru"
-    },
-    "Polen": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Polen"
-    },
-    "Portugal": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Portugal"
-    },
-    "Puerto Rico": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Puerto Rico"
-    },
-    "Qatar": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Qatar"
-    },
-    "Reunion": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Reunion"
-    },
-    "Rumänien": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Rumänien"
-    },
-    "Ryssland": {
-      "zones": {
-        "to": "IntVärlden1",
-        "from": "zone9",
-        "within": "zone9",
-        "receive": "zone9"
-      },
-      "name": "Ryssland"
-    },
-    "San Marino": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone10",
-        "within": "zone10",
-        "receive": "zone10"
-      },
-      "name": "San Marino"
-    },
-    "Saudiarabien": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Saudiarabien"
-    },
-    "Schweiz": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone2",
-        "within": "zone2",
-        "receive": "zone2"
-      },
-      "name": "Schweiz"
-    },
-    "Senegal": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Senegal"
-    },
-    "Serbien": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone10",
-        "within": "zone10",
-        "receive": "zone10"
-      },
-      "name": "Serbien"
-    },
-    "Seychellerna": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Seychellerna"
-    },
-    "Sierra Leone": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Sierra Leone"
-    },
-    "Singapore": {
-      "zones": {
-        "to": "IntVärlden2",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "Singapore"
-    },
-    "Slovakien": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Slovakien"
-    },
-    "Slovenien": {
-      "zones": {
-        "to": "IntEuropa2",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Slovenien"
-    },
-    "Spanien": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Spanien"
-    },
-    "Sri Lanka": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Sri Lanka"
-    },
-    "St. Barthelemy": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone7",
-        "within": "zone7",
-        "receive": "zone7"
-      },
-      "name": "St. Barthelemy"
-    },
-    "St. Kitts och Nevis": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "St. Kitts och Nevis"
-    },
-    "St. Lucia": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "St. Lucia"
-    },
-    "St. Martin": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "St. Martin"
-    },
-    "St. Vincent och Grenadinerna": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "St. Vincent och Grenadinerna"
-    },
-    "Storbritannien och Nordirland": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Storbritannien och Nordirland"
-    },
-    "Sudan": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Sudan"
-    },
-    "Suriname": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Suriname"
-    },
-    "Swaziland": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Swaziland"
-    },
-    "Sydafrika": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "Sydafrika"
-    },
-    "Sydkorea": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone9",
-        "within": "zone9",
-        "receive": "zone9"
-      },
-      "name": "Sydkorea"
-    },
-    "Syrien": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Syrien"
-    },
-    "Tadzjikistan": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Tadzjikistan"
-    },
-    "Taiwan": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "Taiwan"
-    },
-    "Tanzania": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Tanzania"
-    },
-    "Tchad": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Tchad"
-    },
-    "Thailand": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "Thailand"
-    },
-    "Tjeckien": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Tjeckien"
-    },
-    "Togo": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Togo"
-    },
-    "Tonga": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Tonga"
-    },
-    "Trinidad och Tobago": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Trinidad och Tobago"
-    },
-    "Tunisien": {
-      "zones": {
-        "to": "IntVärlden1",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Tunisien"
-    },
-    "Turkiet": {
-      "zones": {
-        "to": "IntVärlden1",
-        "from": "zone2",
-        "within": "zone2",
-        "receive": "zone2"
-      },
-      "name": "Turkiet"
-    },
-    "Turkmenistan": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Turkmenistan"
-    },
-    "Turks och Caicos": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Turks och Caicos"
-    },
-    "Tyskland": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Tyskland"
-    },
-    "Uganda": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Uganda"
-    },
-    "Ukraina": {
-      "zones": {
-        "to": "IntVärlden1",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Ukraina"
-    },
-    "Ungern": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Ungern"
-    },
-    "Uruguay": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Uruguay"
-    },
-    "USA": {
-      "zones": {
-        "to": "IntUsa&Kanada",
-        "from": "zone4",
-        "within": "zone4",
-        "receive": "zone4"
-      },
-      "name": "USA"
-    },
-    "Uzbekistan": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Uzbekistan"
-    },
-    "Vanuatu": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Vanuatu"
-    },
-    "Vatikanstaten": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Vatikanstaten"
-    },
-    "Venezuela": {
-      "zones": {
-        "to": "IntVärlden3",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Venezuela"
-    },
-    "Vietnam": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Vietnam"
-    },
-    "Vitryssland": {
-      "zones": {
-        "to": "IntVärlden1",
-        "from": "zone3",
-        "within": "zone3",
-        "receive": "zone3"
-      },
-      "name": "Vitryssland"
-    },
-    "Zambia": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Zambia"
-    },
-    "Zimbabwe": {
-      "zones": {
-        "to": "IntÖvrigavärlden",
-        "from": "zone1",
-        "within": "zone1",
-        "receive": "zone1"
-      },
-      "name": "Zimbabwe"
-    },
-    "Åland": {
-      "zones": {
-        "to": "Norden",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Åland"
-    },
-    "Österrike": {
-      "zones": {
-        "to": "IntEuropa1",
-        "from": "zone5",
-        "within": "zone5",
-        "receive": "zone5"
-      },
-      "name": "Österrike"
+    "countries": {
+        "Afghanistan": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Afghanistan"
+        },
+        "Albanien": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone2",
+                "within": "zone2",
+                "receive": "zone2"
+            },
+            "name": "Albanien"
+        },
+        "Algeriet": {
+            "zones": {
+                "to": "IntVärlden1",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Algeriet"
+        },
+        "Amerikanska Jungfruöarna": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Amerikanska Jungfruöarna"
+        },
+        "Andorra": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone2",
+                "within": "zone2",
+                "receive": "zone2"
+            },
+            "name": "Andorra"
+        },
+        "Angola": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Angola"
+        },
+        "Anguilla": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Anguilla"
+        },
+        "Antigua och Barbuda": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Antigua och Barbuda"
+        },
+        "Argentina": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Argentina"
+        },
+        "Armenien": {
+            "zones": {
+                "to": "IntVärlden1",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Armenien"
+        },
+        "Aruba": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Aruba"
+        },
+        "Australien": {
+            "zones": {
+                "to": "IntVärlden2",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "Australien"
+        },
+        "Azerbajdzjan": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Azerbajdzjan"
+        },
+        "Bahamas": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Bahamas"
+        },
+        "Bahrain": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Bahrain"
+        },
+        "Bangladesh": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Bangladesh"
+        },
+        "Barbados": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Barbados"
+        },
+        "Belgien": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Belgien"
+        },
+        "Belize": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Belize"
+        },
+        "Benin": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Benin"
+        },
+        "Bermuda": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Bermuda"
+        },
+        "Bhutan": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Bhutan"
+        },
+        "Bolivia": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Bolivia"
+        },
+        "Bosnien och Hercegovina": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone6",
+                "within": "zone6",
+                "receive": "zone6"
+            },
+            "name": "Bosnien och Hercegovina"
+        },
+        "Botswana": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Botswana"
+        },
+        "Brasilien": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Brasilien"
+        },
+        "Brittiska Jungfruöarna": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Brittiska Jungfruöarna"
+        },
+        "Bulgarien": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Bulgarien"
+        },
+        "Burkina Faso": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Burkina Faso"
+        },
+        "Burundi": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Burundi"
+        },
+        "Caymanöarna": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Caymanöarna"
+        },
+        "Centralafrikanska republiken": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Centralafrikanska republiken"
+        },
+        "Chile": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Chile"
+        },
+        "Colombia": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Colombia"
+        },
+        "Costa Rica": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Costa Rica"
+        },
+        "Curacao och Bonaire": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Curacao och Bonaire"
+        },
+        "Cypern (norra)": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone2",
+                "within": "zone2",
+                "receive": "zone2"
+            },
+            "name": "Cypern (norra)"
+        },
+        "Cypern (södra)": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Cypern (södra)"
+        },
+        "Danmark": {
+            "zones": {
+                "to": "Norden",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Danmark"
+        },
+        "Desirade": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone7",
+                "within": "zone7",
+                "receive": "zone7"
+            },
+            "name": "Desirade"
+        },
+        "Djibouti": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Djibouti"
+        },
+        "Dominica": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Dominica"
+        },
+        "Dominikanska republiken": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Dominikanska republiken"
+        },
+        "Ecuador": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Ecuador"
+        },
+        "Egypten": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "Egypten"
+        },
+        "Ekvatorialguinea": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Ekvatorialguinea"
+        },
+        "El Salvador": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "El Salvador"
+        },
+        "Elfenbenskusten": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Elfenbenskusten"
+        },
+        "Estland": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Estland"
+        },
+        "Etiopien": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Etiopien"
+        },
+        "Fiji": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Fiji"
+        },
+        "Filippinerna": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Filippinerna"
+        },
+        "Finland": {
+            "zones": {
+                "to": "Norden",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Finland"
+        },
+        "Frankrike": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Frankrike"
+        },
+        "Franska Guyana": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Franska Guyana"
+        },
+        "Färöarna": {
+            "zones": {
+                "to": "Norden",
+                "from": "zone2",
+                "within": "zone2",
+                "receive": "zone2"
+            },
+            "name": "Färöarna"
+        },
+        "Förenade Arabemiraten": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "Förenade Arabemiraten"
+        },
+        "Gabon": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Gabon"
+        },
+        "Gambia": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Gambia"
+        },
+        "Georgien": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Georgien"
+        },
+        "Ghana": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Ghana"
+        },
+        "Gibraltar": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone8",
+                "within": "zone8",
+                "receive": "zone8"
+            },
+            "name": "Gibraltar"
+        },
+        "Grekland": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Grekland"
+        },
+        "Grenada": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Grenada"
+        },
+        "Grönland": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone8",
+                "within": "zone8",
+                "receive": "zone8"
+            },
+            "name": "Grönland"
+        },
+        "Guadeloupe": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Guadeloupe"
+        },
+        "Guam": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Guam"
+        },
+        "Guatemala": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Guatemala"
+        },
+        "Guernsey": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Guernsey"
+        },
+        "Guinea": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Guinea"
+        },
+        "Guinea Bissau": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Guinea Bissau"
+        },
+        "Guyana": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Guyana"
+        },
+        "Göteborg": {
+            "zones": {
+                "to": "billigt",
+                "from": "billigt",
+                "within": "billigt",
+                "receive": "billigt"
+            },
+            "name": "Göteborg"
+        },
+        "Haiti": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Haiti"
+        },
+        "Honduras": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Honduras"
+        },
+        "Hongkong": {
+            "zones": {
+                "to": "IntVärlden2",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "Hongkong"
+        },
+        "Indien": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Indien"
+        },
+        "Indonesien": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Indonesien"
+        },
+        "Irak": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Irak"
+        },
+        "Iran": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Iran"
+        },
+        "Irland": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Irland"
+        },
+        "Island": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Island"
+        },
+        "Isle of Man": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Isle of Man"
+        },
+        "Israel": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone9",
+                "within": "zone9",
+                "receive": "zone9"
+            },
+            "name": "Israel"
+        },
+        "Italien": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Italien"
+        },
+        "Jamaica": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "Jamaica"
+        },
+        "Japan": {
+            "zones": {
+                "to": "IntVärlden2",
+                "from": "zone9",
+                "within": "zone9",
+                "receive": "zone9"
+            },
+            "name": "Japan"
+        },
+        "Jemen": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Jemen"
+        },
+        "Jersey": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Jersey"
+        },
+        "Jordanien": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Jordanien"
+        },
+        "Kambodja": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Kambodja"
+        },
+        "Kamerun": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Kamerun"
+        },
+        "Kanada": {
+            "zones": {
+                "to": "IntUsa&Kanada",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "Kanada"
+        },
+        "Kap Verde": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Kap Verde"
+        },
+        "Kazakstan": {
+            "zones": {
+                "to": "IntVärlden1",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Kazakstan"
+        },
+        "Kenya": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Kenya"
+        },
+        "Kina": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "Kina"
+        },
+        "Kirgizistan": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Kirgizistan"
+        },
+        "Kongo-Brazzaville": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Kongo-Brazzaville"
+        },
+        "Kongo-Kinshasa": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Kongo-Kinshasa"
+        },
+        "Kosovo": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone10",
+                "within": "zone10",
+                "receive": "zone10"
+            },
+            "name": "Kosovo"
+        },
+        "Kroatien": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone2",
+                "within": "zone2",
+                "receive": "zone2"
+            },
+            "name": "Kroatien"
+        },
+        "Kuba": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Kuba"
+        },
+        "Kuwait": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Kuwait"
+        },
+        "Laos": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Laos"
+        },
+        "Les Saintes": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone7",
+                "within": "zone7",
+                "receive": "zone7"
+            },
+            "name": "Les Saintes"
+        },
+        "Lettland": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Lettland"
+        },
+        "Libanon": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Libanon"
+        },
+        "Liberia": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Liberia"
+        },
+        "Libyen": {
+            "zones": {
+                "to": "IntVärlden1",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Libyen"
+        },
+        "Liechtenstein": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Liechtenstein"
+        },
+        "Litauen": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Litauen"
+        },
+        "Luxemburg": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Luxemburg"
+        },
+        "Macao": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "Macao"
+        },
+        "Madagaskar": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Madagaskar"
+        },
+        "Makedonien": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone6",
+                "within": "zone6",
+                "receive": "zone6"
+            },
+            "name": "Makedonien"
+        },
+        "Malawi": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Malawi"
+        },
+        "Malaysia": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "Malaysia"
+        },
+        "Maldiverna": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Maldiverna"
+        },
+        "Mali": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Mali"
+        },
+        "Malta": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Malta"
+        },
+        "Marie-Galante": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone7",
+                "within": "zone7",
+                "receive": "zone7"
+            },
+            "name": "Marie-Galante"
+        },
+        "Marocko": {
+            "zones": {
+                "to": "IntVärlden1",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Marocko"
+        },
+        "Martinique": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Martinique"
+        },
+        "Mauritius": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Mauritius"
+        },
+        "Mexico": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Mexico"
+        },
+        "Mocambique": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Mocambique"
+        },
+        "Moldavien": {
+            "zones": {
+                "to": "IntVärlden1",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Moldavien"
+        },
+        "Monaco": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Monaco"
+        },
+        "Mongoliet": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Mongoliet"
+        },
+        "Montenegro": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone6",
+                "within": "zone6",
+                "receive": "zone6"
+            },
+            "name": "Montenegro"
+        },
+        "Montserrat": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Montserrat"
+        },
+        "Namibia": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Namibia"
+        },
+        "Nederländerna": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Nederländerna"
+        },
+        "Nepal": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Nepal"
+        },
+        "Nicaragua": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Nicaragua"
+        },
+        "Niger": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Niger"
+        },
+        "Nigeria": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Nigeria"
+        },
+        "Norge": {
+            "zones": {
+                "to": "Norden",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Norge"
+        },
+        "Nya Zeeland": {
+            "zones": {
+                "to": "IntVärlden2",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "Nya Zeeland"
+        },
+        "Oman": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Oman"
+        },
+        "Pakistan": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Pakistan"
+        },
+        "Palestina": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Palestina"
+        },
+        "Panama": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Panama"
+        },
+        "Papua Nya Guinea": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Papua Nya Guinea"
+        },
+        "Paraguay": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Paraguay"
+        },
+        "Peru": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Peru"
+        },
+        "Polen": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Polen"
+        },
+        "Portugal": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Portugal"
+        },
+        "Puerto Rico": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Puerto Rico"
+        },
+        "Qatar": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Qatar"
+        },
+        "Reunion": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Reunion"
+        },
+        "Rumänien": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Rumänien"
+        },
+        "Ryssland": {
+            "zones": {
+                "to": "IntVärlden1",
+                "from": "zone9",
+                "within": "zone9",
+                "receive": "zone9"
+            },
+            "name": "Ryssland"
+        },
+        "Saba": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Saba"
+        },
+        "San Marino": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone10",
+                "within": "zone10",
+                "receive": "zone10"
+            },
+            "name": "San Marino"
+        },
+        "Saudiarabien": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Saudiarabien"
+        },
+        "Schweiz": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone2",
+                "within": "zone2",
+                "receive": "zone2"
+            },
+            "name": "Schweiz"
+        },
+        "Senegal": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Senegal"
+        },
+        "Serbien": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone10",
+                "within": "zone10",
+                "receive": "zone10"
+            },
+            "name": "Serbien"
+        },
+        "Seychellerna": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Seychellerna"
+        },
+        "Sierra Leone": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Sierra Leone"
+        },
+        "Singapore": {
+            "zones": {
+                "to": "IntVärlden2",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "Singapore"
+        },
+        "Slovakien": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Slovakien"
+        },
+        "Slovenien": {
+            "zones": {
+                "to": "IntEuropa2",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Slovenien"
+        },
+        "Spanien": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Spanien"
+        },
+        "Sri Lanka": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Sri Lanka"
+        },
+        "St. Barthelemy": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone7",
+                "within": "zone7",
+                "receive": "zone7"
+            },
+            "name": "St. Barthelemy"
+        },
+        "St Eustatius": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "St Eustatius"
+        },
+        "St. Kitts och Nevis": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "St. Kitts och Nevis"
+        },
+        "St. Lucia": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "St. Lucia"
+        },
+        "St. Martin": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "St. Martin"
+        },
+        "St. Vincent och Grenadinerna": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "St. Vincent och Grenadinerna"
+        },
+        "Storbritannien och Nordirland": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Storbritannien och Nordirland"
+        },
+        "Sudan": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Sudan"
+        },
+        "Suriname": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Suriname"
+        },
+        "Swaziland": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Swaziland"
+        },
+        "Sydafrika": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "Sydafrika"
+        },
+        "Sydkorea": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone9",
+                "within": "zone9",
+                "receive": "zone9"
+            },
+            "name": "Sydkorea"
+        },
+        "Syrien": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Syrien"
+        },
+        "Tadzjikistan": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Tadzjikistan"
+        },
+        "Taiwan": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "Taiwan"
+        },
+        "Tanzania": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Tanzania"
+        },
+        "Tchad": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Tchad"
+        },
+        "Thailand": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "Thailand"
+        },
+        "Tjeckien": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Tjeckien"
+        },
+        "Togo": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Togo"
+        },
+        "Tonga": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Tonga"
+        },
+        "Trinidad och Tobago": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Trinidad och Tobago"
+        },
+        "Tunisien": {
+            "zones": {
+                "to": "IntVärlden1",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Tunisien"
+        },
+        "Turkiet": {
+            "zones": {
+                "to": "IntVärlden1",
+                "from": "zone2",
+                "within": "zone2",
+                "receive": "zone2"
+            },
+            "name": "Turkiet"
+        },
+        "Turkmenistan": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Turkmenistan"
+        },
+        "Turks och Caicos": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Turks och Caicos"
+        },
+        "Tyskland": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Tyskland"
+        },
+        "Uganda": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Uganda"
+        },
+        "Ukraina": {
+            "zones": {
+                "to": "IntVärlden1",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Ukraina"
+        },
+        "Ungern": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Ungern"
+        },
+        "Uruguay": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Uruguay"
+        },
+        "USA": {
+            "zones": {
+                "to": "IntUsa&Kanada",
+                "from": "zone4",
+                "within": "zone4",
+                "receive": "zone4"
+            },
+            "name": "USA"
+        },
+        "Uzbekistan": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Uzbekistan"
+        },
+        "Vanuatu": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Vanuatu"
+        },
+        "Vatikanstaten": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Vatikanstaten"
+        },
+        "Venezuela": {
+            "zones": {
+                "to": "IntVärlden3",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Venezuela"
+        },
+        "Vietnam": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Vietnam"
+        },
+        "Vitryssland": {
+            "zones": {
+                "to": "IntVärlden1",
+                "from": "zone3",
+                "within": "zone3",
+                "receive": "zone3"
+            },
+            "name": "Vitryssland"
+        },
+        "Zambia": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Zambia"
+        },
+        "Zimbabwe": {
+            "zones": {
+                "to": "IntÖvrigavärlden",
+                "from": "zone1",
+                "within": "zone1",
+                "receive": "zone1"
+            },
+            "name": "Zimbabwe"
+        },
+        "Åland": {
+            "zones": {
+                "to": "Norden",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Åland"
+        },
+        "Österrike": {
+            "zones": {
+                "to": "IntEuropa1",
+                "from": "zone5",
+                "within": "zone5",
+                "receive": "zone5"
+            },
+            "name": "Österrike"
+        }
+    },
+    "zones": {
+        "zone1": {
+            "to": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "from": {
+                "phone": 33.95,
+                "mobile": 33.95,
+                "sms": 3.5,
+                "mms": 9.95
+            },
+            "within": {
+                "phone": 33.95,
+                "mobile": 33.95,
+                "sms": 3.5,
+                "mms": 9.95,
+                "data": 99
+            },
+            "receive": {
+                "mobile": 19.95,
+                "sms": 0,
+                "mms": 7.95
+            }
+        },
+        "zone2": {
+            "to": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "from": {
+                "phone": 8.95,
+                "mobile": 8.95,
+                "sms": 3.5,
+                "mms": 6.95
+            },
+            "within": {
+                "phone": 8.95,
+                "mobile": 8.95,
+                "sms": 3.5,
+                "mms": 6.95,
+                "data": 29
+            },
+            "receive": {
+                "mobile": 5.25,
+                "sms": 0,
+                "mms": 4.95
+            }
+        },
+        "zone3": {
+            "to": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "from": {
+                "phone": 16.95,
+                "mobile": 16.95,
+                "sms": 3.5,
+                "mms": 9.95
+            },
+            "within": {
+                "phone": 16.95,
+                "mobile": 16.95,
+                "sms": 3.5,
+                "mms": 9.95,
+                "data": 99
+            },
+            "receive": {
+                "mobile": 19.95,
+                "sms": 0,
+                "mms": 7.95
+            }
+        },
+        "zone4": {
+            "to": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "from": {
+                "phone": 16.95,
+                "mobile": 16.95,
+                "sms": 3.5,
+                "mms": 9.95
+            },
+            "within": {
+                "phone": 16.95,
+                "mobile": 16.95,
+                "sms": 3.5,
+                "mms": 9.95,
+                "data": 49
+            },
+            "receive": {
+                "mobile": 19.95,
+                "sms": 0,
+                "mms": 7.95
+            }
+        },
+        "zone5": {
+            "to": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "from": {
+                "phone": 2.1,
+                "mobile": 3.6,
+                "sms": 0.67,
+                "mms": 2.2
+            },
+            "within": {
+                "phone": 2.1,
+                "mobile": 3.6,
+                "sms": 0.67,
+                "mms": 2.2,
+                "data": 29
+            },
+            "receive": {
+                "mobile": 0.55,
+                "sms": 0,
+                "mms": 2.2
+            }
+        },
+        "zone6": {
+            "to": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "from": {
+                "phone": 16.95,
+                "mobile": 16.95,
+                "sms": 3.5,
+                "mms": 9.95
+            },
+            "within": {
+                "phone": 16.95,
+                "mobile": 16.95,
+                "sms": 3.5,
+                "mms": 9.95,
+                "data": 29
+            },
+            "receive": {
+                "mobile": 19.95,
+                "sms": 0,
+                "mms": 7.95
+            }
+        },
+        "zone7": {
+            "to": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "from": {
+                "phone": 2.1,
+                "mobile": 3.6,
+                "sms": 0.67,
+                "mms": 2.2
+            },
+            "within": {
+                "phone": 2.1,
+                "mobile": 3.6,
+                "sms": 0.67,
+                "mms": 2.2,
+                "data": 99
+            },
+            "receive": {
+                "mobile": 0.55,
+                "sms": 0,
+                "mms": 2.2
+            }
+        },
+        "zone8": {
+            "to": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "from": {
+                "phone": 8.95,
+                "mobile": 8.95,
+                "sms": 3.5,
+                "mms": 6.95
+            },
+            "within": {
+                "phone": 8.95,
+                "mobile": 8.95,
+                "sms": 3.5,
+                "mms": 6.95,
+                "data": 99
+            },
+            "receive": {
+                "mobile": 5.25,
+                "sms": 0,
+                "mms": 4.95
+            }
+        },
+        "zone9": {
+            "to": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "from": {
+                "phone": 33.95,
+                "mobile": 33.95,
+                "sms": 3.5,
+                "mms": 9.95
+            },
+            "within": {
+                "phone": 33.95,
+                "mobile": 33.95,
+                "sms": 3.5,
+                "mms": 9.95,
+                "data": 49
+            },
+            "receive": {
+                "mobile": 19.95,
+                "sms": 0,
+                "mms": 7.95
+            }
+        },
+        "zone10": {
+            "to": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "from": {
+                "phone": 33.95,
+                "mobile": 33.95,
+                "sms": 3.5,
+                "mms": 9.95
+            },
+            "within": {
+                "phone": 33.95,
+                "mobile": 33.95,
+                "sms": 3.5,
+                "mms": 9.95,
+                "data": 29
+            },
+            "receive": {
+                "mobile": 19.95,
+                "sms": 0,
+                "mms": 7.95
+            }
+        },
+        "IntÖvrigavärlden": {
+            "to": {
+                "phone": 22.5,
+                "mobile": 24,
+                "sms": 7.95,
+                "mms": 9.95
+            },
+            "from": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "within": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0,
+                "data": 0
+            },
+            "receive": {
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            }
+        },
+        "billigt": {
+            "to": {
+                "phone": "Känn",
+                "mobile": "ingen",
+                "sms": "sorg",
+                "mms": "för"
+            },
+            "from": {
+                "phone": "Singoalla",
+                "mobile": "tror",
+                "sms": "att",
+                "mms": "om"
+            },
+            "within": {
+                "phone": "himlen",
+                "mobile": "finns",
+                "sms": "är",
+                "mms": "jag",
+                "data": "förlorad"
+            },
+            "receive": {
+                "mobile": "mig",
+                "sms": "Göteborg",
+                "mms": "Och"
+            }
+        },
+        "IntEuropa1": {
+            "to": {
+                "phone": 5.5,
+                "mobile": 7,
+                "sms": 2.95,
+                "mms": 2.95
+            },
+            "from": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "within": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0,
+                "data": 0
+            },
+            "receive": {
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            }
+        },
+        "IntEuropa2": {
+            "to": {
+                "phone": 5.5,
+                "mobile": 7,
+                "sms": 2.95,
+                "mms": 2.95
+            },
+            "from": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "within": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0,
+                "data": 0
+            },
+            "receive": {
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            }
+        },
+        "IntUsa&Kanada": {
+            "to": {
+                "phone": 9,
+                "mobile": 10.5,
+                "sms": 3.95,
+                "mms": 5.95
+            },
+            "from": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "within": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0,
+                "data": 0
+            },
+            "receive": {
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            }
+        },
+        "IntVärlden1": {
+            "to": {
+                "phone": 12.5,
+                "mobile": 14,
+                "sms": 4.95,
+                "mms": 6.95
+            },
+            "from": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "within": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0,
+                "data": 0
+            },
+            "receive": {
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            }
+        },
+        "IntVärlden2": {
+            "to": {
+                "phone": 17,
+                "mobile": 18.5,
+                "sms": 5.95,
+                "mms": 7.95
+            },
+            "from": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "within": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0,
+                "data": 0
+            },
+            "receive": {
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            }
+        },
+        "IntVärlden3": {
+            "to": {
+                "phone": 22.5,
+                "mobile": 24,
+                "sms": 6.95,
+                "mms": 8.95
+            },
+            "from": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "within": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0,
+                "data": 0
+            },
+            "receive": {
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            }
+        },
+        "Norden": {
+            "to": {
+                "phone": 3.63,
+                "mobile": 3.63,
+                "sms": 2.5,
+                "mms": 4.5
+            },
+            "from": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            },
+            "within": {
+                "phone": 0,
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0,
+                "data": 0
+            },
+            "receive": {
+                "mobile": 0,
+                "sms": 0,
+                "mms": 0
+            }
+        }
     }
-  },
-  "zones": {
-    "zone1": {
-      "to": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "from": {
-        "phone": 33.95,
-        "mobile": 33.95,
-        "sms": 3.50,
-        "mms": 9.95
-      },
-      "within": {
-        "phone": 33.95,
-        "mobile": 33.95,
-        "sms": 3.50,
-        "mms": 9.95,
-        "data": 99
-      },
-      "receive": {
-        "mobile": 19.95,
-        "sms": 0,
-        "mms": 7.95
-      }
-    },
-    "zone2": {
-      "to": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "from": {
-        "phone": 8.95,
-        "mobile": 8.95,
-        "sms": 3.50,
-        "mms": 6.95
-      },
-      "within": {
-        "phone": 8.95,
-        "mobile": 8.95,
-        "sms": 3.50,
-        "mms": 6.95,
-        "data": 29
-      },
-      "receive": {
-        "mobile": 5.25,
-        "sms": 0,
-        "mms": 4.95
-      }
-    },
-    "zone3": {
-      "to": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "from": {
-        "phone": 16.95,
-        "mobile": 16.95,
-        "sms": 3.50,
-        "mms": 9.95
-      },
-      "within": {
-        "phone": 16.95,
-        "mobile": 16.95,
-        "sms": 3.50,
-        "mms": 9.95,
-        "data": 99
-      },
-      "receive": {
-        "mobile": 19.95,
-        "sms": 0,
-        "mms": 7.95
-      }
-    },
-    "zone4": {
-      "to": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "from": {
-        "phone": 16.95,
-        "mobile": 16.95,
-        "sms": 3.50,
-        "mms": 9.95
-      },
-      "within": {
-        "phone": 16.95,
-        "mobile": 16.95,
-        "sms": 3.50,
-        "mms": 9.95,
-        "data": 49
-      },
-      "receive": {
-        "mobile": 19.95,
-        "sms": 0,
-        "mms": 7.95
-      }
-    },
-    "zone5": {
-      "to": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "from": {
-        "phone": 2.10,
-        "mobile": 3.60,
-        "sms": 0.67,
-        "mms": 2.20
-      },
-      "within": {
-        "phone": 2.10,
-        "mobile": 3.60,
-        "sms": 0.67,
-        "mms": 2.20,
-        "data": 29
-      },
-      "receive": {
-        "mobile": 0.55,
-        "sms": 0,
-        "mms": 2.20
-      }
-    },
-    "zone6": {
-      "to": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "from": {
-        "phone": 16.95,
-        "mobile": 16.95,
-        "sms": 3.50,
-        "mms": 9.95
-      },
-      "within": {
-        "phone": 16.95,
-        "mobile": 16.95,
-        "sms": 3.50,
-        "mms": 9.95,
-        "data": 29
-      },
-      "receive": {
-        "mobile": 19.95,
-        "sms": 0,
-        "mms": 7.95
-      }
-    },
-    "zone7": {
-      "to": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "from": {
-        "phone": 2.10,
-        "mobile": 3.60,
-        "sms": 0.67,
-        "mms": 2.20
-      },
-      "within": {
-        "phone": 2.10,
-        "mobile": 3.60,
-        "sms": 0.67,
-        "mms": 2.20,
-        "data": 99
-      },
-      "receive": {
-        "mobile": 0.55,
-        "sms": 0,
-        "mms": 2.20
-      }
-    },
-    "zone8": {
-      "to": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "from": {
-        "phone": 8.95,
-        "mobile": 8.95,
-        "sms": 3.50,
-        "mms": 6.95
-      },
-      "within": {
-        "phone": 8.95,
-        "mobile": 8.95,
-        "sms": 3.50,
-        "mms": 6.95,
-        "data": 99
-      },
-      "receive": {
-        "mobile": 5.25,
-        "sms": 0,
-        "mms": 4.95
-      }
-    },
-    "zone9": {
-      "to": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "from": {
-        "phone": 33.95,
-        "mobile": 33.95,
-        "sms": 3.50,
-        "mms": 9.95
-      },
-      "within": {
-        "phone": 33.95,
-        "mobile": 33.95,
-        "sms": 3.50,
-        "mms": 9.95,
-        "data": 49
-      },
-      "receive": {
-        "mobile": 19.95,
-        "sms": 0,
-        "mms": 7.95
-      }
-    },
-    "zone10": {
-      "to": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "from": {
-        "phone": 33.95,
-        "mobile": 33.95,
-        "sms": 3.50,
-        "mms": 9.95
-      },
-      "within": {
-        "phone": 33.95,
-        "mobile": 33.95,
-        "sms": 3.50,
-        "mms": 9.95,
-        "data": 29
-      },
-      "receive": {
-        "mobile": 19.95,
-        "sms": 0,
-        "mms": 7.95
-      }
-    },
-    "IntÖvrigavärlden": {
-      "to": {
-        "phone": 22.50,
-        "mobile": 24,
-        "sms": 7.95,
-        "mms": 9.95
-      },
-      "from": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "within": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0,
-        "data": 0
-      },
-      "receive": {
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      }
-    },
-    "billigt": {
-      "to": {
-        "phone": "Känn",
-        "mobile": "ingen",
-        "sms": "sorg",
-        "mms": "för"
-      },
-      "from": {
-        "phone": "Singoalla",
-        "mobile": "tror",
-        "sms": "att",
-        "mms": "om"
-      },
-      "within": {
-        "phone": "himlen",
-        "mobile": "finns",
-        "sms": "är",
-        "mms": "jag",
-        "data": "förlorad"
-      },
-      "receive": {
-        "mobile": "mig",
-        "sms": "Göteborg",
-        "mms": "Och"
-      }
-    },
-    "IntEuropa1": {
-      "to": {
-        "phone": 5.50,
-        "mobile": 7,
-        "sms": 2.95,
-        "mms": 2.95
-      },
-      "from": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "within": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0,
-        "data": 0
-      },
-      "receive": {
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      }
-    },
-    "IntEuropa2": {
-      "to": {
-        "phone": 5.50,
-        "mobile": 7,
-        "sms": 2.95,
-        "mms": 2.95
-      },
-      "from": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "within": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0,
-        "data": 0
-      },
-      "receive": {
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      }
-    },
-    "IntUsa&Kanada": {
-      "to": {
-        "phone": 9,
-        "mobile": 10.50,
-        "sms": 3.95,
-        "mms": 5.95
-      },
-      "from": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "within": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0,
-        "data": 0
-      },
-      "receive": {
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      }
-    },
-    "IntVärlden1": {
-      "to": {
-        "phone": 12.50,
-        "mobile": 14,
-        "sms": 4.95,
-        "mms": 6.95
-      },
-      "from": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "within": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0,
-        "data": 0
-      },
-      "receive": {
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      }
-    },
-    "IntVärlden2": {
-      "to": {
-        "phone": 17,
-        "mobile": 18.50,
-        "sms": 5.95,
-        "mms": 7.95
-      },
-      "from": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "within": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0,
-        "data": 0
-      },
-      "receive": {
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      }
-    },
-    "IntVärlden3": {
-      "to": {
-        "phone": 22.50,
-        "mobile": 24,
-        "sms": 6.95,
-        "mms": 8.95
-      },
-      "from": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "within": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0,
-        "data": 0
-      },
-      "receive": {
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      }
-    },
-    "Norden": {
-      "to": {
-        "phone": 3.63,
-        "mobile": 3.63,
-        "sms": 2.50,
-        "mms": 4.50
-      },
-      "from": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      },
-      "within": {
-        "phone": 0,
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0,
-        "data": 0
-      },
-      "receive": {
-        "mobile": 0,
-        "sms": 0,
-        "mms": 0
-      }
-    }
-  }
 }
