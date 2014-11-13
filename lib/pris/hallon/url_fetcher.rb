@@ -13,6 +13,8 @@ module Pris
         @urls ||= process_page(get_page)
       end
 
+      private
+
       def root_url
         @root_url || DEFAULT_ROOT_URL
       end
@@ -33,14 +35,14 @@ module Pris
         end
       end
 
-      CountryData = Struct.new(:name, :country_data)
+      CountryData = Struct.new(:name, :url)
 
       def process_element(element)
         if path_attribute = element.attribute("value")
           path = element.attribute("value").value
           url = construct_url(path)
           country_name = element.content
-          return country_name, url
+          CountryData.new(country_name, url)
         end
       end
 
