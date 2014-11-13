@@ -24,7 +24,48 @@ module Pris
       end
 
       def build_country(country, zones)
-        
+        Country.new do |c|
+          c.add_basic_data(country)
+          c.add_rates(zones)
+        end
+      end
+
+      class Country
+        RATE_TYPES = ["to", "from", "within", "receive"]
+
+        attr_reader :rates
+
+        def initialize
+          yield(self) if block_given?
+        end
+
+        def add_basic_data(country_data)
+          @name = country_data.fetch("name")
+          @zones = country_data.fetch("zones")
+        end
+
+        def add_rates(all_zones)
+          @rates = Rates.new
+          RATE_TYPES.each do |rate_type|
+            zone = @zones[rate_type]
+            zone_rates = all_zones[zone][rate_type]
+            @rates[rate_type.to_sym] = zone_rates
+          end
+        end
+
+        class Rates < Hash
+          [:from, :to, :within, :receive].each do |direction|
+            define_method(direction) do |type = nil|
+              rates = self[direction]
+              if type
+                rates[type.to_s]
+              else
+                rates
+              end
+            end
+          end
+        end
+
       end
 
     end

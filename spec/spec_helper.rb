@@ -12,7 +12,7 @@ end
 RSpec.configure do |config|
 
   config.around(:each) do |example|
-    name = example.metadata[:full_description].downcase.gsub(/\W+/, "_").split("_", 2).join("/")
+    name = "#{described_class.to_s}_specs"
     VCR.use_cassette(name, :record => :new_episodes) do
       example.call
     end
