@@ -20,6 +20,8 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
   spec.add_development_dependency "guard-rspec"
+  spec.add_development_dependency "webmock"
+  spec.add_development_dependency "vcr"
 
   spec.add_runtime_dependency "mechanize"
   spec.add_runtime_dependency "rchardet19"
