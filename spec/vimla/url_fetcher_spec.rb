@@ -5,7 +5,7 @@ module Pris
 
       describe "#url" do
         it "returns the correct url" do
-          expect(fetcher.url).to eq('https://vimla.se/upload/om-mobilabonnemanget/utomlands/utomlands_upd_1juli.json')
+          expect(fetcher.url).to eq('https://vimla.se/upload/om-mobilabonnemanget/utomlands/utomlands_upd_12nov.json')
         end
       end
     end
