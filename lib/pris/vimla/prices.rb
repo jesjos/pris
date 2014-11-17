@@ -1,6 +1,6 @@
 module Pris
   module Vimla
-    class PriceCollector
+    class Prices
 
       def countries
         @countries ||= collect_rates(raw_data)
@@ -12,7 +12,7 @@ module Pris
 
       def get_data
         url = UrlFetcher.new.url
-        DataFetcher.new(url).data
+        Prices.new(url).data
       end
 
       def collect_rates(raw_data)

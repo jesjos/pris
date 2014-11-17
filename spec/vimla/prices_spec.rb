@@ -2,8 +2,8 @@ require "spec_helper"
 
 module Pris
   module Vimla
-    describe PriceCollector do
-      let(:collector) { PriceCollector.new }
+    describe Prices do
+      let(:collector) { Prices.new }
       let(:example_data) { Oj.load File.open("./spec/example_data/vimla.json") { |f| f.read} }
       let(:example_countries) { example_data["countries"].keys }
 
