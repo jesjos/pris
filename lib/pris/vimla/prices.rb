@@ -1,6 +1,6 @@
 module Pris
   module Vimla
-    class Prices
+    class Prices < PriceSource
 
       def countries
         @countries ||= collect_rates(raw_data)
@@ -12,7 +12,7 @@ module Pris
 
       def get_data
         url = UrlFetcher.new.url
-        Prices.new(url).data
+        DataFetcher.new(url).data
       end
 
       def collect_rates(raw_data)
@@ -50,19 +50,6 @@ module Pris
             zone = @zones[rate_type]
             zone_rates = all_zones[zone][rate_type]
             @rates[rate_type.to_sym] = zone_rates
-          end
-        end
-
-        class Rates < Hash
-          [:from, :to, :within, :receive].each do |direction|
-            define_method(direction) do |type = nil|
-              rates = self[direction]
-              if type
-                rates[type.to_s]
-              else
-                rates
-              end
-            end
           end
         end
 
