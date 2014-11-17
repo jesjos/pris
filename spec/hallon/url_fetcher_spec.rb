@@ -19,7 +19,7 @@ module Pris
           urls = subject.urls
           finland = urls["Finland"]
           expect(finland).to eq(finland_url)
-          
+
           afghanistan = urls["Afghanistan"]
           expect(afghanistan).to eq(afghanistan_url)
         end
