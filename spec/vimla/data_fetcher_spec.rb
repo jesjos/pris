@@ -7,7 +7,7 @@ module Pris
       let(:subject) { DataFetcher.new(url) }
       describe "#data" do
         let(:test_data) do
-          JSON.parse(File.open("./spec/example_data/vimla.json") { |f| f.read })
+          Oj.load(File.open("./spec/example_data/vimla.json") { |f| f.read })
         end
         it "returns the correct data" do
           data = subject.data
