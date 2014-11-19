@@ -1,19 +1,17 @@
 module Pris
   module Hallon
     class DataFetcher
-      def initialize(urls)
-        @urls = urls
+      attr_reader :agent
+      def initialize(url, agent: Mechanize.new)
+        @url = url
+        @agent = agent
       end
 
       def data
-        get_data(@urls)
+        get_country_data(@url)
       end
 
-      def get_data(urls)
-        urls.each_with_object({}) do |(country_name, url), output|
-          output[country_name] = get_country_data(url)
-        end
-      end
+      private
 
       def get_country_data(url)
         parse_page(get_page(url))
@@ -26,11 +24,6 @@ module Pris
       def parse_page(page)
         PageParser.new(page).rates
       end
-
-      def agent
-        @agent ||= Mechanize.new
-      end
-      
     end
   end
 end
