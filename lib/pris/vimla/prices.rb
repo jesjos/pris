@@ -49,6 +49,7 @@ module Pris
           RATE_TYPES.each do |rate_type|
             zone = @zones[rate_type]
             zone_rates = all_zones[zone][rate_type]
+            zone_rates = Utilities.symbolize_keys(zone_rates)
             @rates[rate_type.to_sym] = zone_rates
           end
         end

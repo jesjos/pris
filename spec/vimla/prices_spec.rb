@@ -15,40 +15,40 @@ module Pris
 
         it "returns the correct prices to Finland" do
           expected = {
-            "phone" => 3.63,
-            "mobile" => 3.63,
-            "sms" => 2.5,
-            "mms" => 4.5
+            phone: 3.63,
+            mobile: 3.63,
+            sms: 2.5,
+            mms: 4.5
           }
           expect(country.rates.to).to eq(expected)
         end
 
         it "returns the correct prices from Finland" do
           expected = {
-            "phone" => 2.1,
-            "mobile" => 3.6,
-            "sms" => 0.67,
-            "mms" => 2.2
+            phone: 2.1,
+            mobile: 3.6,
+            sms: 0.67,
+            mms: 2.2
           }
           expect(country.rates.from).to eq(expected)
         end
 
         it "returns the correct prices within Finland" do
           expected = {
-            "phone" => 2.1,
-            "mobile" => 3.6,
-            "sms" => 0.67,
-            "mms" => 2.2,
-            "data" => 29
+            phone: 2.1,
+            mobile: 3.6,
+            sms: 0.67,
+            mms: 2.2,
+            data: 29
           }
           expect(country.rates.within).to eq(expected)
         end
 
         it "returns the correct prices for receiving in Finland" do
           expected = {
-            "mobile" => 0.55,
-            "sms" => 0,
-            "mms" => 2.2
+            mobile: 0.55,
+            sms: 0,
+            mms: 2.2
           }
           expect(country.rates.receive).to eq(expected)
         end
