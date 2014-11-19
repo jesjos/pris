@@ -1,6 +1,7 @@
 require "mechanize"
 
 require "pris/version"
+require "pris/utilities"
 require "pris/price_source"
 require "pris/price_parser"
 require "pris/rates"
