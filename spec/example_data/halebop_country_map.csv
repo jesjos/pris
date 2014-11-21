@@ -1,0 +1,230 @@
+countrycode,swedishCountryNames,englishCountryNames,zone,dontNeedUtlandsfaktura
+48,Diego Garcia,Diego Garcia,,
+171,Ryssland,Russia,zone_3,
+49,Djibouti,Djibouti,,
+170,Rwanda,Rwanda,,
+46,Danmark,Denmark,zone_1_eu,Y
+173,Saint Kitts och Nevis,Saint Kitts and Nevis,,
+47,Demokratiska republiken Kongo,Democratric Republic of the Congo,,
+172,Réunion,Réunion,zone_2a_eu,
+40,Centralafrikanska republiken,Central African Republic,,
+179,Sankt Helena,Saint Helena,,
+41,Chile,Chile,,
+178,Samoa,Samoa,,
+44,Costa Rica,Costa Rica,,
+175,Saint Pierre och Miquelon,Saint Pierre and Miquelon,,
+45,Cuba,Cuba,,
+174,Saint Lucia,Saint Lucia,,
+42,Colombia,Colombia,,
+177,Salomonöarna,Solomon Islands,,
+43,Cooköarna,Cook Islands,,
+176,Saint Vincent och Grenadinerna,Saint Vincent och Grenadier,,
+57,Eritrea,Eritrea,,
+162,Papa Nya Guinea,Papua New Guinea,,
+58,Estland,Estonia,zone_1_eu,Y
+161,Panama,Panama,,
+59,Etiopien,Ethiopia,,
+160,Palestina,Palestinian State,,
+50,Dominica,Dominica,,
+169,Rumänien,Romania,zone_2a_eu,Y
+51,Dominikanska republiken,Dominican Republic,,
+168,Qatar,Qatar,,
+52,Ecuador,Ecuador,,
+167,Puerto Rico,Puerto Rico,zone_4,
+53,Egypten,Egypt,zone_6,Y
+166,Portugal,Portugal,zone_2a_eu,Y
+54,Ekvatorialguinea,Guinea Ecuatorial,,
+165,Polen,Poland,zone_2a_eu,Y
+55,El Salvador,El Salvador,,
+164,Peru,Peru,,
+56,Elfenbenskusten,Ivory Coast,,
+163,Paraguay,Paraguay,,
+149,Nigeria,Nigeria,,
+68,Förenade Arabemiraten,United Arab Emirates,zone_6,
+151,Nordkorea,North Korea,,
+69,Gabon,Gabon,,
+150,Niue,Niue,,
+66,Franska Polynesien,French Polynesia,,
+7,Andorra,Andorra,zone_2b,
+67,Färöarna,Faroe Islands,zone_2b,
+6,Amerikanska Samoa,American Samoa,,
+152,Norge,Norway,zone_1_non_eu,Y
+64,Frankrike,France,zone_2a_eu,Y
+9,Anguilla,Anguilla,,
+155,Nya Kaledonien,New Caledonia,,
+65,Franska Guyana,French Guiana,zone_2a_eu,
+8,Angola,Angola,,
+154,Norra Marianeröarna,North Mariana Islands,,
+62,Filippinerna,Philippines,,
+157,Oman,Oman,,
+63,Finland,Finland,zone_1_eu,Y
+156,Nya Zeeland,New Zeeland,zone_5,Y
+60,Falklandsöarna,Falkland Islands,,
+159,Palau,Palau,,
+61,Fiji,Fiji,,
+158,Pakistan,Pakistan,,
+70,Gambia,Gambia,,
+138,Mongoliet,Mongolia,,
+139,Montenegro,Montenegro,zone_3,
+4,Amerikanska Jungfruöarna,American Virgin Islands,zone_4,
+2,Albanien,Albania,zone_3,
+3,Algeriet,Algeria,,Y
+79,Guatemala,Guatemala,,
+140,Montserrat,Montserrat,zone_5,
+75,Grenada,Grenada,,
+144,Nederländerna,The Netherlands,zone_2a_eu,Y
+76,Grönland,Greenland,,
+143,Nauru,Nauru,,
+77,Guadeloupe,Guadeloupe,,
+142,Namibia,Namibia,,
+78,Guam,Guam,,
+141,Moçambique,Moçambique,,
+71,Georgien,Georgia,zone_3,Y
+148,Niger,Niger,,
+72,Ghana,Ghana,,
+147,Nicaragua,Nicaragua,,
+73,Gibraltar,Gibraltar,zone_2a_eu,
+146,Nepal,Nepal,,
+74,Grekland,Greece,zone_2a_eu,Y
+145,Nederländska Antillerna,Netherlands Antilles,,
+10,Antigua och Barbuda,Antigua and Barbuda,,
+12,Armenien,Armenia,zone_3,
+11,Argentina,Argentina,,
+14,Ascension Islands,Ascension Islands,zone_2a_non_eu,
+13,Aruba,Aruba,,
+16,Australiens externa territorier - Antarktis,Australian Antarctic Territory,,
+15,Australien,Australia,zone_5,
+18,Azerbajdzjan,Azerbaijan,zone_3,Y
+17,Australiens externa territorier - Norfolkön,Norfolk Island,,
+19,Bahamas,Bahamas,,
+23,Belgien,Belgium,zone_2a_eu,Y
+196,Swaziland,Swaziland,,
+197,Sydafrika,South Africa,zone_6,
+22,Barbados,Barbados,,
+198,Sydkorea,South Korea,zone_5,
+21,Bangladesh,Bangladesh,,
+199,Syrien,Syria,,
+20,Bahrain,Bahrain,,
+29,Bolivia,Bolivia,,
+190,Somalia,Somalia,,
+28,Bhutan,Bhutan,,
+191,Spanien,Spain,zone_2a_eu,Y
+27,Bermuda,Bermuda,,
+192,Sri Lanka,Sri Lanka,,
+26,Benin,Benin,,
+193,Storbritannien,Great Britain,zone_2a_eu,Y
+194,Sudan,Sudan,,
+24,Belize,Belize,,
+195,Surinam,Surinam,,
+32,Brasilien,Brasil,,Y
+187,Singapore,Singapore,zone_5,
+31,Botswana,Botswana,,
+188,Slovakien,Slovakia,zone_2a_eu,Y
+34,Brunei Darussalam,Brunei Darussalam,,
+185,Seychellerna,Republic of Seychelles,,
+33,Brittiska Jungfruöarna,British Virgin Islands,,
+186,Sierra Leone,Sierra Leone,,
+30,Bosnien och Hercegovina,Bosnien and Hercegovina,zone_3,
+189,Slovenien,Slovenia,zone_2a_eu,Y
+39,Caymanöarna,Cayman Islands,,
+180,Satellit,Satellite,,
+36,Burkina Faso,Burkina Faso,,
+183,Senegal,Senegal,,
+35,Bulgarien,Bulgaria,zone_2a_eu,Y
+184,Serbien,Serbia,zone_3,Y
+38,Burundi,Burundi,,
+181,Saudiarabien,Saudiarabia,,
+37,Burma/Myanmar,Burma/Myanmar,,
+182,Schweiz,Switzerland,zone_2a_non_eu,Y
+229,Zimbabwe,Zimbabwe,,
+228,Zambia,Zambia,,
+227,Wallis- och Futunaöarna,Wallis and Futuna,,
+226,Vitryssland,Belarus,zone_3,
+231,Östtimor,East tyrol,,
+232,Cypern,Cyprus,zone_2a_eu,Y
+230,Österrike,Ausstria,zone_2a_eu,Y
+233,Afghanistan,Afghanistan,,Y
+234,Tunisien,Tunisia,,Y
+216,Tyskland,Germany,zone_2a_eu,Y
+218,Uganda,Uganda,,
+217,USA,USA,zone_4,Y
+219,Ukraina,Ukraine,zone_3,Y
+220,Ungern,Hungary,zone_2a_eu,Y
+221,Uruguay,Uruguay,,
+222,Uzbekistan,Uzbekistan,zone_3,Y
+223,Vanuatu,Vanuatu,,
+224,Venezuela,Venezuela,,
+225,Vietnam,Vietnam,,
+83,Haiti,Haiti,,
+136,Moldavien,Moldavia,zone_3,
+82,Guyana,Guyana,,
+137,Monaco,Monaco,,
+85,Hongkong,Hong Kong,zone_5,
+134,Mexiko,Mexico,,
+84,Honduras,Honduras,,
+135,Mikronesien,Mikronesia,,
+87,Indonesien,Indonesia,,
+132,Mauretanien,Mauritania,,
+86,Indien,India,zone_5,
+133,Mauritius,Mauritius,,
+89,Iran,Iran,,
+130,Marshallöarna,Marshall Islands,,
+88,Irak,Irak,,
+131,Martinique,Martinique,zone_2a_eu,
+129,Marocko,Marocco,,
+80,Guinea,Guinea,,
+128,Malta,Malta,zone_2a_eu,Y
+81,Guinea-Bissau,Guinea-Bissau,,
+127,Mali,Mali,,
+96,Jemen,Jemen,,
+123,Makedonien,Macedonia,zone_3,Y
+95,Japan,Japan,zone_5,
+124,Malawi,Malawi,,
+94,Jamaica,Jamaica,,
+125,Malaysia,Malaysia,zone_5,
+93,Italien,Italy,zone_2a_eu,Y
+126,Maldiverna,Maldives,,
+99,Kamerun,Cameroon,,
+120,Luxemburg,Luxembourg,zone_2a_eu,Y
+98,Kambodja,Cambodia,,
+121,Macau,Macau,zone_5,
+97,Jordanien,Jordania,,
+122,Madagaskar,Madagascar,,
+91,Island,Island,zone_2a_eu,Y
+117,Libyen,Libya,,
+92,Israel,Israel,zone_5,Y
+116,Liberia,Liberia,,
+119,Litauen,Lithuania,zone_1_eu,Y
+90,Irland,Irland,zone_2a_eu,Y
+118,Liechtenstein,Liechtenstein,zone_2a_eu,
+110,Kroatien,Croatia,zone_2a_eu,Y
+111,Kuwait,Kuwait,,
+114,Lettland,Latvia,zone_1_eu,Y
+115,Libanon,Lebanon,,
+112,Laos,Laos,,
+113,Lesotho,Lesotho,,
+208,Tokelauöarna,Tokelau,,
+209,Tonga,Tonga,,
+206,Tjeckien,Czech Republic,zone_2a_eu,Y
+207,Togo,Togo,,
+204,Tchad,Tchad,,
+205,Thailand,Thailand,zone_6,Y
+214,Tuvalu,Tuvalu,,
+213,Turks- och Caicosöarna,Turks and Caicos Islands,,
+212,Turkmenistan,Turkmenistan,zone_3,
+211,Turkiet,Turkey,zone_7,Y
+210,Trinidad och Tobago,Trinidad and Tobago,,
+108,Kongo,Kingdom of Kongo,,
+107,Komorerna,Comoros,,
+106,Kiribati,Kiribati,,
+105,Kirgizistan,Kyrgyzstan,zone_3,
+109,Kosovo,Kosovo,zone_3,
+100,Kanada,Canada,zone_4,
+101,Kap Verde,Cape Verde,,
+102,Kazakstan,Kazakhstan,zone_3,Y
+103,Kenya,Kenya,,
+104,Kina,China,zone_5,
+201,Tadzjikistan,Tadzjikistan,zone_3,
+200,São Tomé och Príncipe,São Tomé and Príncipe,,
+203,Tanzania,Tanzania,,
+202,Taiwan,Taiwan,zone_5,
