@@ -5,11 +5,12 @@ module Pris
     end
 
     def extract_number(raw)
-      raw[/\d+,\d+/] || ""
+      raw ||= ''
+      raw[/\d+,\d+/] || ''
     end
 
     def parse_float(string)
-      Float(string.gsub(",", "."))
+      Float(string.gsub(',', '.'))
     rescue ArgumentError
       0
     end
